@@ -48,32 +48,6 @@ I enjoy turning ideas into polished digital products, experimenting with new tec
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
----
-
-## Featured Projects
-
-### 🖥️ [fe-portfolio](https://github.com/Manulapo/fe-portfolio)
-
-My frontend portfolio project, built primarily with **TypeScript**.
-
-### 🏠 [propstore](https://github.com/Manulapo/propstore)
-
-A **TypeScript** project exploring modern frontend application development.
-
-### 💡 [idea](https://github.com/Manulapo/idea)
-
-A **PHP** project for experimenting with application concepts and backend development.
-
-### 🔎 [investigation-app](https://github.com/Manulapo/investigation-app)
-
-A **Vue** application focused on building an interactive web experience.
-
-### 🌐 [Rosetta](https://github.com/Manulapo/Rosetta)
-
-A **Python** project and part of my experimentation outside the frontend ecosystem.
-
----
-
 ## Let's Connect
 
 I'm always interested in interesting projects, frontend development, design and new ideas.
