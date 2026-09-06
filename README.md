@@ -2,7 +2,7 @@
 
 # Hi, I'm Manuel La Porta 👋
 
-### Frontend Developer · UI/UX · Web Development
+### Fullstack Developer · UI/UX · Web Development
 
 I build clean, intuitive and user-focused web experiences.
 
@@ -71,24 +71,6 @@ A **Vue** application focused on building an interactive web experience.
 ### 🌐 [Rosetta](https://github.com/Manulapo/Rosetta)
 
 A **Python** project and part of my experimentation outside the frontend ecosystem.
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Manulapo&show_icons=true&theme=github_dark&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manulapo&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Manulapo&theme=github-dark-blue&hide_border=true" />
-
-</div>
 
 ---
 
